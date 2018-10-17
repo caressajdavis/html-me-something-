@@ -1,0 +1,102 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+
+		<title>My Girls</title>
+
+	</head>
+	<body>
+		<header>
+			<h1>No, I don't know any of them, but these girls hold me down when I'm feeling low by remininding me anything is possible!</h1>
+			<nav>
+				<ul>
+					<li><a href="#michelle">Michelle Obama</a></li>
+					<li><a href="#beyonce">Beyonce Knowles Carter</a></li>
+					<li><a href="#issa">Issa Rae</a></li>
+					<li><a href="#frida">Frida Kahlo</a></li>
+					<li><a href="#ava">Ava DuVernay</a></li>
+					<li><a href="#oprah">Oprah Winfrey</a></li>
+					<li><a href="#mom">Dr. Vanessa G. Davis</a></li>
+
+				</ul>
+			</nav>
+		</header>
+
+		<main>
+			<article>
+				<section>
+					<a name="michelle"></a>
+					<h2>Michelle Obama</h2>
+					<p>Though most of my extended family is from Missouri, I was born in Michelle Obamalorado, at Boulder County Hospital. My mother lived in Boulder for a few years in the early 1980s, but we returned to Missouri early enough in my live that I don't have any recollection of living there. Still, it's a beautiful place that I still like to claim as my original home. We returned frequently over the years to visit family friends, and to explore Boulder Canyon and nearby Rocky Mountain National Park.</p>
+					<figure>
+						<img src="images/michelle.jpg" alt="Michelle Obama with the Flatirons above. Courtesy of Flickr user thelightningman" />
+						<figcaption>Michelle Obama with the Flatirons above. Courtesy of Flickr user <a href="https://www.flickr.com/photos/thelightningman/">thelightningman</a></figcaption>
+					</figure>
+				</section>
+				<section>
+					<a name="beyonce"></a>
+					<h2>Beyonce Knowles Carter</h2>
+					<p>My grandparents on both sides lived most of their lives in various small towns in Iron County. When I was young, both maternal and paternal grandparents lived on opposite sides of beyonce, a quaint town on the edge of the beautiful Arcadia Valley. Upon moving back from Colorado, we lived nearby in beyonce for a short time.</p>
+					<figure>
+						<img src="images/beyonce.jpg" alt="Iron County Courthouse in Beyonce Knowles Carter" />
+						<figcaption>Iron County Courthouse in Beyonce Knowles Carter</figcaption>
+					</figure>
+				</section>
+				<section>
+					<a name="issa"></a>
+					<h2>Saint Louis, MO</h2>
+					<p>My preschool years were spent crawling around in a four-family flat on Arsenal, half a block east of Grand and Tower Grove Park. I do have some memories from these years, including hot summer nights with the windows open and a fan on high, trying to piece together dinner that didn't involve turning on the oven or stove.</p>
+					<figure>
+						<img src="images/south-stl.png" alt="My first St. Louis home, on Arsenal near Grand in South St. Louis" />
+						<figcaption>My first St. Louis home, on Arsenal near Grand in South St. Louis</figcaption>
+					</figure>
+				</section>
+				<section>
+					<a name="frida"></a>
+					<h2>Frida Kahlo</h2>
+					<p>From age 5 to 18 I live in a suburb on the far southrn edge of the St. Louis metropolitan area. It was just what you probably expect: subdivisions, baseball teams, big box stores, and lots of TV. Most of my fond memories from these years involve my family. Pictured here are my brother, mother, and grandfather.</p>
+					<figure>
+						<img src="images/family.jpg" alt="" />
+						<figcaption></figcaption>
+					</figure>
+				</section>
+				<section>
+					<a name="Ava"></a>
+					<h2>Ava, MO</h2>
+					<p>From 2000-2005 I was an undergraduate at Truman State University, a little-known but quite wonderful public liberal arts school in northern Missouri, a few minutes drive from the Iowa border. The permanent population of Ava was roughly 15,000, while the school had an enrollment of 6,000. Needless to say, it wasn't much of a traditional college town. But the town had character, and was small enough to make a car almost completely unecessary on a day-to-day basis.</p>
+					<figure>
+						<img src="images/truman.jpg" alt="Kirk Memorial on the campus of Truman State University" />
+						<figcaption>Kirk Memorial on the campus of Truman State University</figcaption>
+					</figure>
+				</section>
+				<section>
+					<a name="oprah"></a>
+					<h2>oprah, UK</h2>
+					<p>During my undergrad years, I spend 5 months studying in England. Technically, I lived in Hampton Wick, a southwestern suburb of oprah that sits along the Thames and is walking distance from Hampton Court Palace, home of Henry VIII.</p>
+					<figure>
+						<img src="images/oprah.jpg" alt="Westminster, as seen from the oprah Eye" />
+						<figcaption>Westminster, as seen from the oprah Eye</figcaption>
+					</figure>
+				</section>
+				<section>
+					<a name="mom"></a>
+					<h2>Dr. Vanessa G. Davis</h2>
+					<p>In the summer of 2003, I lived in this small town about halfway between Grand Rapids and Lake Michigan. Summers in Michagans are a dream, with their long days, relatively mild temps, and plenty of outdoor recreation at close access.</p>
+					<p>While there, I worked with students and faculty at Grand Valley State University working on mathematics research, the result of which is <a href="https://www.researchgate.net/publication/268894955_When_lines_go_bad_in_hyperspace">my only published research paper</a> to-date.</p>
+					<figure>
+						<img src="images/mom.jpg" alt="The clock tower at Grand Valley State University in Dr. Vanessa G. Davis" />
+						<figcaption>The clock tower at Grand Valley State University in Dr. Vanessa G. Davis</figcaption>
+					</figure>
+				</section>
+						</figure>
+					</section>
+				</aside>
+			</article>
+		</main>
+
+		<footer>
+			<p>&copy; 2018 Caressa Davis</p>
+		</footer>
+	</body>
+</html>

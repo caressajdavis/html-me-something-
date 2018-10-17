@@ -1,3 +1,19 @@
 body {
-    background-image: 
+    background-image: url("images/LGP_Image.png")
+}
+.title {
+    text-align: center;
+}
+all-buttons{
+    position: relative;
+    right: 150px;
+    width: 200px;
+}
+#button1 {
+    background-color: yellow
+
+}
+#button2 {
+    background-color:black
+    
 }
